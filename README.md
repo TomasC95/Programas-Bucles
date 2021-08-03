@@ -1,2 +1,3 @@
-# Programas-Bucles
-Programas con Bucles for
+# Programas-Bucles-Listas-Tuplas
+Programas con Bucles for, while, listas y tuplas.
+
